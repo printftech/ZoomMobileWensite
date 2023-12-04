@@ -28,6 +28,9 @@ a:hover {text-decoration: none;}
 
 /*---------------------------------------------*/
 h1,h2,h3,h4,h5,h6,p {margin: 0px;}
+h3{
+	margin :23px;
+}
 
 ul, li {
 	margin: 0px;

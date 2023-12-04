@@ -66,7 +66,7 @@
             });
 
             $(slick1).on('afterChange', function(event, slick, currentSlide){ 
-
+              
                 var layerCurrentItem = $(itemSlick1[currentSlide]).find('.layer-slick1');
 
                 for(var i=0; i<actionSlick1.length; i++) {
